@@ -1,3 +1,3 @@
-# Professional README Generator Starter Code
+sorry for the incompleteness of this assignment :/ i got diagnosed with covid-19 and have felt really weak and unmotivated this week,
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+i will do better next week
